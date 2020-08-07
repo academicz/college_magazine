@@ -1,0 +1,16 @@
+.section-pad {
+    margin: 25px 0;
+}
+.like-icon {
+    margin-left: 200px;
+}
+.like-icon i {
+    color: #333333;
+}
+.like-icon i:hover {
+    transition: .2s;
+    color: #00dcf8;
+}
+.liked {
+    color: #00dcf8 !important;
+}
